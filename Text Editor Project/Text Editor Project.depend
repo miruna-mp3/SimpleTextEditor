@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1705488791 source:d:\desktop\text editor project\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+
+1705488791 source:d:\desktop\files\compsci projects archive\text editor project\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+
